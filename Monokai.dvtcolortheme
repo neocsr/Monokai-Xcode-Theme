@@ -31,7 +31,7 @@
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.705792 0.8 0.544 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.153 0.157 0.133</string>
+	<string>0.010 0.010 0.010</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
@@ -102,7 +102,7 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.plain</key>
-		<string>Monaco - 14.0</string>
+		<string>GohuFont-Medium - 14.0</string>
 	</dict>
 </dict>
 </plist>

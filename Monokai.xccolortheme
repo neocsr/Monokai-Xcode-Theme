@@ -5,7 +5,7 @@
 	<key>Colors</key>
 	<dict>
 		<key>Background</key>
-		<string>0.153 0.157 0.133</string>
+		<string>0.010 0.010 0.010</string>
 		<key>InsertionPoint</key>
 		<string>0.973 0.973 0.941</string>
 		<key>Selection</key>
